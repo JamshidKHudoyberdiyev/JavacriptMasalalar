@@ -126,7 +126,7 @@
 
 // kattkichik(1000,300,80)
 
-// 
+//
 
 // Uchta son berilgan o'rtanchasini  chiqaruvchi dastur  tuzing?
 // function otanchasi(a,b,c){
@@ -137,24 +137,22 @@
 //    }if(c>b && c<a || a>a && c<b){
 //     console.log(c);
 //    }
-   
+
 // }
 // otanchasi(-2,0,-5)
 
-
 // Uchta son berilgan yigindisi eng katta bo'ladigan 2 tasini   chiqaruvchi dastur  tuzing?
-
 
 // function largeSUM(a,b,c){
 //   if(a+b > a+c && a+b > b+c){
 //     console.log(a,b);
 //   }else if(a+c > a+b && a+c > b+c){
 //     console.log(a,c);
-//   } 
+//   }
 //   else if(b+c > a+c && b+c > a+c){
 //     console.log(b,c);
 //   }
-  
+
 // }
 // largeSUM(20,40,8)
 
@@ -194,7 +192,6 @@
 // SonniAniqla(0)
 
 // Berilgan yilda necha kun borligni aniqlovchi dastur tuzing? kabisa yilida 366 kun bor,kabisa yili deb 4 ga karrali yilllarga aytilda LEkin 100 ga karrali yillar ichida faqat 400 ga karralilari kabisa yili hisoblanadi
-
 
 // function IsKabesa(yil){
 //   if(yil%4==0){
